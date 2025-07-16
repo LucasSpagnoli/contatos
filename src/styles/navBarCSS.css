@@ -1,0 +1,14 @@
+#navBar {
+    display: flex;
+    height: 60px;
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    margin-top: 4%;
+}
+.img-navbar {
+    background-color: white;
+    height: 52px;
+    padding-left: 15px;
+    padding-top: 3px;
+}
