@@ -1,5 +1,8 @@
 # Página Contatos
-Página de contatos feita com HTML, CSS, JavaScript e React. \n
-Com funcionalidade de enviar email. \n
-Link para acessar o site: \n
+Página de contatos feita com HTML, CSS, JavaScript e React.
+
+Com funcionalidade de enviar email.
+
+Link para acessar o site:
+
 https://lucasspagnoli.github.io/contatos/
