@@ -2,7 +2,7 @@ import React from "react";
 import '../styles/section.css';
 
 function Section() {
-
+// --- Variáveis e Funções ---
   const handleSubmit = (event) => {
     event.preventDefault();
     try {
@@ -16,13 +16,16 @@ function Section() {
     }
   };
 
+// --- Renderização do Componente ---
   return (
     <section id="section">
 
+      {/* --- Imagem de fundo --- */}
       <div id="img-section">
         <h1>CONTATOS</h1>
       </div>
 
+      {/* --- Formulário de Contato --- */}
       <div id="text-section">
         <h2>Precisa de ajuda com sua empresa?</h2>
         <p>Entre em contato conosco e vamos ajudá-lo a crescer!</p>
