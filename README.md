@@ -5,4 +5,4 @@ Com funcionalidade de enviar email.
 
 Link para acessar o site:
 
-<em manutenção>
+https://lucasspagnoli.github.io/contatos/
